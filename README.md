@@ -12,3 +12,5 @@ A customize-able simple Spark Core web app controller.
 4. Name your app with the ``appHeading`` variable.
 
 Credits: This code is a hacked up version of code from http://www.github.com/jflasher/spark-helper thanks!
+
+![iPhone5s](http://i.imgur.com/3aFPgjV.png)
