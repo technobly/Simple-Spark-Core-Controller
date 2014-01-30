@@ -23,7 +23,7 @@ NOTES: Every time you press Button 1, notice the onboard blue LED tied to output
 
 4. Edit your sketch with corresponding ``funcKeys`` and whatever control and logic you can dream up for your project.
 
-NOTES: You will see the "SUCCESS!" message pop up every time you press a button or your variables update.  It will say success on button presses only if it actually gets a return value of 200 from your function.  It will say success on variable updates if your coreID matches the one you enter in the webpage (currently variables don't return anything but their own value).  If you Core goes offline and you press a button, you'll see an ERROR! Timed Out message.  This success/error message popup could easily change to something else in the future.  Study the working example before you start editing it to your liking!"
+NOTES: You will see the "SUCCESS!" message pop up every time you press a button.  It will say success on button presses only if it actually gets a return value of 200 from your function. If you Core goes offline and you press a button, you'll see an ERROR! Timed Out message.  This success/error message popup could easily change to something else in the future.  Study the working example before you start editing it to your liking!"
 
 Need Variables as well? Check out this example: https://github.com/technobly/Remote-Spark
 
